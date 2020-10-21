@@ -1,6 +1,5 @@
 package net.tatsuyagi.spring.sample.controller;
 
-import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.ClassUtils;
 import org.springframework.util.MultiValueMap;
